@@ -11,6 +11,7 @@ These can be installed with `pip install`
 - bs4
 - colorama
 - termcolor
+- faker
 
 ### Instructions
 - Make sure to edit the config file to your own requirements before running the tool
