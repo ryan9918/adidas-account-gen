@@ -1,0 +1,8 @@
+{
+	"domain": "cartchefs.co.uk",
+
+	"password": {
+		"random": true,
+		"password": "Password123"
+	}
+}
