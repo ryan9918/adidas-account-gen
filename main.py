@@ -99,7 +99,7 @@ if __name__ == '__main__':
 	generator = Generator()
 	createdAccounts = []
 	logger.log("Adidas Account Gen | v2.0")
-	logger.log("[made by @ryan9918_]")
+	logger.log("[made by @crepchef]")
 	logger.log("=============================================")
 	num = input("[    USER    ] Number of accounts: ")
 	for x in range(int(num)):
